@@ -12,3 +12,7 @@ Trois courtes vidéos à regarder dans l'ordre.
 
 - **En ligne** : cliquez sur un fichier ci-dessus, GitHub le lit directement dans le navigateur.
 - **Hors ligne** : bouton vert **Code → Download ZIP**, ou `git clone` de ce dépôt.
+
+## Dashboard
+
+Le dashboard du projet BI est consultable en ligne : **[assiaferjani.github.io/BI-Project](https://assiaferjani.github.io/BI-Project/)**
